@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Blood Bank 2</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="google_title_text">Google Sign In</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+
+    <string-array name="unit_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="type_array">
+        <item>A+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>AB+</item>
+    </string-array>
+
+</resources>
